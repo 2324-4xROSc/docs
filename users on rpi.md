@@ -7,6 +7,7 @@ SSH is enabled, log in with your group's user and password:
  - `frontend`: `cabbageway`
  - `joystick`: `among us in real`
  - `camera`: `realgaming`
+ - `gps`: `nicht geheim123`
 
 How to SSH:
 
