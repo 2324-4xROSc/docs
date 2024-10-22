@@ -8,6 +8,8 @@ SSH is enabled, log in with your group's user and password:
  - `joystick`: `among us in real`
  - `camera`: `realgaming`
  - `gps`: `nicht geheim123`
+ - `voltage`: `kaindorftest`
+
 
 How to SSH:
 
